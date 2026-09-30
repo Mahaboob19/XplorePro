@@ -1,0 +1,38 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data Types:
+-----------
+
+1. Primitive
+
+2. Non - Primitive:
+    i. Arrays
+    ii. Objects
+        -> the real time entities used to store data in form of key and value pair
+        -> In JS we can declare Objects in 2 ways
+            1. Literal way
+            2. using new keyword
+
+
+
+
+
+
+
+
+
